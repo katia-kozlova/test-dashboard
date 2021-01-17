@@ -1,0 +1,44 @@
+{
+  "Group 1": {
+    "Total": 8.6,
+    "eNPS": 75,
+    "Leadership": 9.1,
+    "Job satisfaction": 8,
+    "Meaningfulness": 8.6,
+    "Autonomy": 7.9,
+    "Work situation": 9,
+    "Participation": 8.3,
+    "Personal development": 8.8,
+    "Organizational commitment": 1.1,
+    "Dedication": 9.3,
+    "Custom": ""
+  },
+  "Group 2": {
+    "Total": 8.5,
+    "eNPS": 83,
+    "Leadership": 8.1,
+    "Job satisfaction": 8.1,
+    "Meaningfulness": 9.1,
+    "Autonomy": 8.6,
+    "Work situation": 7.8,
+    "Participation": 8.6,
+    "Personal development": 2.5,
+    "Organizational commitment": 9.2,
+    "Dedication": 9,
+    "Custom": ""
+  },
+  "Group 3": {
+    "Total": 8.7,
+    "eNPS": 67,
+    "Leadership": 7.8,
+    "Job satisfaction": 8.4,
+    "Meaningfulness": 10,
+    "Autonomy": 9.4,
+    "Work situation": 7.2,
+    "Participation": 8.9,
+    "Personal development": 4.6,
+    "Organizational commitment": 9.2,
+    "Dedication": 8.9,
+    "Custom": ""
+  }
+}
